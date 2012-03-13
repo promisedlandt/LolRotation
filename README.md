@@ -3,7 +3,7 @@
 
 ## Disclaimer
 
-This gem scrapes the official League of Legends website - if they change the format, this will break.
+This gem scrapes the official League of Legends website - if they change the format of the news posts, this will break.
 
 ---
 
